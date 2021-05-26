@@ -30,5 +30,5 @@ aqui dejo enlaces de la documentacion official de microsof.
   <a href="https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0">System.IO</a> <br/>
   using System.Text.RegularExpressions :
   <a href="https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions?view=net-5.0">System.Text.RegularExpressions</a>
-<img src="./" alt="Compilador.png"/>
+<img src="./Captura de pantalla (245).png" alt="Compilador.png"/>
   

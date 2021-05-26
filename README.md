@@ -13,7 +13,7 @@ Este proyecto fue propuesto durante el curso de compiladores en la universidad j
 por la catedrista maria ortencia olan cantú. el proposito del proyecto es poder emular los pasos de compilacion
 de un compilador de lenguaje como c este proyecto esta echo en su totalidad en c# form desktop .net 5 la estructura seguida es:
 </p>
-<img src="./" alt="fases_del_compilador.png"/>
+<img src="./fases del analiazdor.png" alt="fases_del_compilador.png"/>
 
 <h2>documentation</h2>
 <p>
